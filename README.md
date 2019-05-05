@@ -66,7 +66,7 @@ Let us know your thoughts below. And good luck with development!
 
 
 | HTML | Laravel | NodeJS | React | Vue |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | [![Argon Dashboard Pro HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro/argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro) | [![Argon Dashboard Pro Laravel](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-laravel/argon-dashboard-pro-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel)  | [![Argon Dashboard Pro NodeJS](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs)  | [![Argon Dashboard PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-react/argon-dashboard-pro-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-react) | [![Argon Dashboard PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard-pro/vue-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro)
 
 ## Demo
@@ -295,7 +295,7 @@ At present, we officially aim to support the last two versions of the following 
 - Support: https://www.creative-tim.com/contact-us?ref=github-ad-pro-vue
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-argon-dashboard-pro/issues)
 - Vue Argon Dashboard- [demo](https://www.creative-tim.com/product/vue-argon-dashboard?ref=github-ad-pro-vue)
-- For Front End Development - [Vue Argon Design System](hhttps://www.creative-tim.com/product/vue-argon-design-system?ref=github-ad-pro-vue)
+- For Front End Development - [Vue Argon Design System](https://www.creative-tim.com/product/vue-argon-design-system?ref=github-ad-pro-vue)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Vue Argon Dashboard PRO. Here are some advices for our users that want to report an issue:
