@@ -1,5 +1,13 @@
 # Change log
 
+## [4.0.0] 2024-02-25
+
+- Update dependencies and devDependencies
+- Refactor code from `options api` to `composition api`
+- Add two-way binding to `ArgonInput`
+- Add `vue3-slider`
+- Replace `countup.js` with `vue-count-to`
+
 ## [3.0.1] 2022-08-01
 
 - Fix errors
